@@ -1,2 +1,2 @@
-# Selectable-BD-Map
-Individually selectable district wise official map of Bangladesh.  
+# Selectable-BD-Map SVG
+Individually selectable district-wise official map of Bangladesh.  
