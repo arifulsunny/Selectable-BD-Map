@@ -5,11 +5,11 @@ This repository contains an interactive-ready, district-wise Bangladesh map in S
 Each district is individually selectable and uniquely identified, making it ideal for dynamic applications like user interactions, filtering, analytics, and region-based reports.
 
 🧭 Key Features
-✅ All 64 districts of Bangladesh
-🧩 Individually selectable paths — ideal for hover, click, or region-based data representation
-🎯 Optimized for performance — lightweight and clean structure
-🎨 Customizable styling — easily adapt colors, borders, and interactivity using CSS/JS
-💡 Compatible with most modern frameworks (React, D3.js, plain HTML/JS, etc.)
+- All 64 districts of Bangladesh
+- Individually selectable paths — ideal for hover, click, or region-based data representation
+- Optimized for performance — lightweight and clean structure
+- Customizable styling — easily adapt colors, borders, and interactivity using CSS/JS
+- Compatible with most modern frameworks (React, D3.js, plain HTML/JS, etc.)
 
 📁 Folder Structure
 bangladesh-district-map/
